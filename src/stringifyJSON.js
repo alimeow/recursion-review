@@ -4,5 +4,13 @@
 // but you don't so you're going to write it from scratch:
 
 var stringifyJSON = function(obj) {
-  // your code goes here
+// if obj is null
+// if obj is not array / object -> make them to string
+// array
+  // array is empty
+  //
+
+// object
+  // object is empty
+  //
 };
